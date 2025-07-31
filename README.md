@@ -1,6 +1,6 @@
 # Flutter User Profile App (Internship Task - Week 4)
 
-🚀 This Flutter app demonstrates:
+ This Flutter app demonstrates:
 - API Integration with `http`
 - JSON Parsing
 - Displaying user profile info (avatar, name, email)
