@@ -12,12 +12,7 @@
 
 ---
 
-## 💻 Screens
-
-| List View |
-|-----------|
-| (Add Screenshot Here) |
-
+![1](https://github.com/user-attachments/assets/cb1a8363-3e92-4b14-85e4-f5bdbb97a312)
 ---
 
 ## 🔧 How to Run
